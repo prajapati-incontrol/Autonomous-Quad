@@ -7,4 +7,4 @@ Key skills acquired:
 4. MPU6050 Gyroscope and Accelerometer
 5. Adding interrupt subroutine
 
-Checkout this link: https://youtu.be/2u3QoxHn4EM
+Checkout this unprofessional video on this project: https://youtu.be/2u3QoxHn4EM

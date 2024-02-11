@@ -1,4 +1,5 @@
-
+// This code mainly uses the codes of JOOP BROKKING from Youtube. Only comments and slight modifications 
+// are made by me.
 
 // Setup Routine
 void setup(){
